@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>PackageNaming:Color.kt$package com.k4zy.bittise_playground.ui.theme</ID>
+    <ID>PackageNaming:ExampleUnitTest.kt$package com.k4zy.bittise_playground</ID>
+    <ID>PackageNaming:MainActivity.kt$package com.k4zy.bittise_playground</ID>
+    <ID>PackageNaming:Theme.kt$package com.k4zy.bittise_playground.ui.theme</ID>
+    <ID>PackageNaming:Type.kt$package com.k4zy.bittise_playground.ui.theme</ID>
+  </CurrentIssues>
+</SmellBaseline>

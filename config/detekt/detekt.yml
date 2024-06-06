@@ -1,0 +1,44 @@
+complexity:
+  active: true
+  LongMethod:
+    active: false
+  TooManyFunctions:
+    active: false
+  LongParameterList:
+    active: false
+  CyclomaticComplexMethod:
+    active: false
+
+naming:
+  FunctionNaming:
+    active: false
+
+formatting:
+  active: true
+  autoCorrect: true
+  MaximumLineLength:
+    active: false
+  ArgumentListWrapping:
+    maxLineLength: 999
+  ParameterListWrapping:
+    maxLineLength: 999
+  NoWildcardImports:
+    active: false
+  TrailingCommaOnDeclarationSite:
+    active: false
+  TrailingCommaOnCallSite:
+    active: false
+  PackageName:
+    active: false
+
+style:
+  MaxLineLength:
+    active: false
+  WildcardImport:
+    active: false
+  MagicNumber:
+    active: false
+
+exceptions:
+  TooGenericExceptionCaught:
+    active: false
